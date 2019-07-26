@@ -16,13 +16,13 @@ This course (**ME 5763: Computer Aided Design Theory and Practice**) covers the 
 
 **Lab Instructor**
 
-Austin Sutton
+Wenjin Tao
 
-atsfk6@mst.edu
+wt6c2@mst.edu
 
-342 [Toomey Hall](https://goo.gl/maps/LFABMFcYoZVRSpTw7), Missouri University of S&T
+311 [Engineering Research Laboratory](https://goo.gl/maps/qVdVn6ypUJ3NWtzJ8), Missouri University of S&T
 
-Office Hours: T & W 3:00PM-4:00PM
+Office Hours: M & W 3:00PM-4:00PM
 
 ---
 
